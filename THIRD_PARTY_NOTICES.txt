@@ -35,3 +35,15 @@ res://assets/ui/fonts/LICENSE.txt
 
 Noto CJK license source:
 https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE
+
+---
+
+This product bundles "Synthwave House Loop" by Fupi as background music.
+The track is dedicated to the public domain under Creative Commons Zero
+(CC0).
+
+Source:
+https://opengameart.org/content/synthwave-house-loop
+
+CC0 legal code:
+https://creativecommons.org/publicdomain/zero/1.0/
